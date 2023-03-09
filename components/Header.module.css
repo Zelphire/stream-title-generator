@@ -1,0 +1,13 @@
+.bannerImage {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+.main {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 12px;
+  border: solid black 1px;
+  height: fit-content;
+  margin: 5rem;
+}
