@@ -1,0 +1,10 @@
+.formSelect {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  padding: 6px;
+  border-radius: 8px;
+  font-weight: 600;
+  margin: 1rem;
+}
